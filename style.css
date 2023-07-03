@@ -27,7 +27,7 @@ section{
 .half-width{
     width: 50%;
     padding-left: 80px;
-    padding-right: 1px;
+    padding-right: 60px;
     
 }
 .half-width img{
@@ -43,8 +43,29 @@ section{
 #hola{
     padding-right: 60px;
 }
-.middle-banner{
+.ex-item{
+    box-shadow: 10px 10px 40px grey;
+    padding: 60px;
+    width: 50%;
+    margin-left: 5%;
+    margin-left: 5%; 
+}
+.holla{
     background-image: url(image/ula.png);
     background-repeat: no-repeat;
-    padding-left: ;
+}
+#one{
+    border-left: 20px solid;
+    border-image: linear-gradient(red, tomato);
+    border-image-slice: 1;
+}
+#two{
+    border-left: 20px solid;
+    border-image: linear-gradient(blue, green);
+    border-image-slice: 1;
+}
+footer{
+    text-align: center;
+    color: red;
+    padding: 200px;
 }
