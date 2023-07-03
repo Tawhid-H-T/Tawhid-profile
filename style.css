@@ -36,4 +36,15 @@ section{
 }
 .top-banner{
     background-image: url(image/top-banner.png);
+    padding-top: 40px;
+    padding-bottom: 200px;
+    background-repeat: no-repeat;
+}
+#hola{
+    padding-right: 60px;
+}
+.middle-banner{
+    background-image: url(image/ula.png);
+    background-repeat: no-repeat;
+    padding-left: ;
 }
